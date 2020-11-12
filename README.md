@@ -1,6 +1,7 @@
 # Tech4Good Website
 
-[![Site Preview](https://img.shields.io/badge/preview-Vercel-grey?logo=vercel&labelColor=black)](https://tech4good-website-staging.vercel.app)
+[![Site Preview](https://img.shields.io/badge/preview-Vercel-black?logo=vercel)](https://tech4good-website-staging.vercel.app)
+[![License](https://img.shields.io/github/license/Tech4GoodCN/website?color=blue)](https://github.com/Tech4GoodCN/website/blob/main/LICENSE)
 
 > Project started from https://github.com/mui-org/material-ui/tree/master/examples/nextjs
 
